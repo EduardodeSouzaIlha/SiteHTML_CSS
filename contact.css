@@ -117,7 +117,7 @@ footer{
     padding: 10px;
     align-items: center;
     flex-direction: column;
-    border-top: 2px solid #000;;
+    border-top: 2px solid #000;
 }
 footer a{
     font-size: 20px;
